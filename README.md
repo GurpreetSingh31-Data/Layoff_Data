@@ -42,10 +42,12 @@
 **Rolling Total of Layoffs Per Month**:A rolling total of layoffs is calculated monthly, offering a clear view of how layoffs accumulated over time. This could be indicative of trends like increasing economic stress or recovery phases.    
 
 
-## POWER BI PART   
+## POWER BI PART     
+
                                     
 ![Screenshot 2024-09-02 172129](https://github.com/user-attachments/assets/1d0a8563-ae5a-4f13-9cad-2c76cc27217d)    
 
+  
 ## KEY INSIGHT  
 
 
