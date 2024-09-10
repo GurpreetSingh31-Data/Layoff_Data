@@ -78,11 +78,6 @@ FROM world_layoffs.layoffs_staging2
 GROUP BY stage
 ORDER BY 2 DESC;
 
-
--- TOUGHER QUERIES------------------------------------------------------------------------------------------------------------------------------------
-
--- Earlier we looked at Companies with the most Layoffs. Now let's look at that per year. It's a little more difficult.
--- I want to look at 
 WITH Company_Year AS 
 (
   SELECT company, YEAR(date) AS years, SUM(total_laid_off) AS total_laid_off
