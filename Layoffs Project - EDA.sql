@@ -1,6 +1,6 @@
 -- EDA
 
--- Here we are jsut going to explore the data and find trends or patterns or anything interesting like outliers
+-- Here we are just going to explore the data and find trends or patterns or anything interesting like outliers
 
 SELECT * 
 FROM world_layoffs.layoffs_staging2;
