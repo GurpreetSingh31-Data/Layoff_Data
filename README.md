@@ -1,4 +1,4 @@
-# Layoff_Data
+# Mass Layoff_Data
 ## MySql and Power BI Project   
 
 ## MYSQL PART
