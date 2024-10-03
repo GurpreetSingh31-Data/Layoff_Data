@@ -21,7 +21,7 @@
 
 ## EDA(Exploratory Data Analysis)  
 ​​
-#### Insights from the "Exploratory Data Analysis (EDA)" Script The EDA script provides insights by exploring trends, patterns, and anomalies in the dataset.  
+#### Insights from the "Exploratory Data Analysis (EDA)" Script The EDA script provides insights by exploring trends, patterns, and anomalies in the datasets.  
 
 **Maximum and Minimum Layoff Percentages**:The script identifies the maximum and minimum layoff percentages, which helps to understand the extremes in the data. For instance, some companies laid off nearly 100% of their workforce, indicating they went out of business or had drastic downsizing.  
 
