@@ -27,7 +27,7 @@
 
 **Companies with 100% Layoffs**:A specific query focuses on identifying companies where the layoff percentage was 100%, which are mostly startups that likely shut down during this period. Examples include companies that raised significant funds but still failed, such as BritishVolt and Quibi.  
 
-**Largest Single-Day Layoffs**:The EDA script identifies the companies with the largest number of layoffs on a single day, which gives insight into the most severe layoffs. This can help identify critical incidents or economic events leading to mass layoffs.  
+**Largest Single-Day Layoffs**:The EDA script identifies the companies with the largest number of layoffs on a single day, which gives insight into the most severe layoffs. This can help identify critical incidents or economic events leading to mass layoff.  
 
 **Companies with the Most Total Layoffs**:The analysis reveals the top companies with the highest total layoffs over time. This is useful to identify which companies were the most impacted or made the largest workforce reductions.  
 
