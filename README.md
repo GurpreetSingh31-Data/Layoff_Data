@@ -7,7 +7,7 @@
 #### The data cleaning script contains several important steps that help in preparing the dataset for further analysis.  
 
 
-**Creation of Staging Table**:A staging table layoffs_staging was created as a working copy of the original layoffs table to clean and modify data without affecting the original dataset.  
+**Creation of Staging Table**:A staging table layoffs_staging was created as a working copy of the original layoffs table to clean and modify data without affecting the original datasets.  
 
 **Removal of Duplicates**:The script includes logic to identify and remove duplicate records based on a combination of columns like company, industry, total_laid_off, date, and other relevant fields. This ensures that each record in the dataset is unique and accurate.  
 
